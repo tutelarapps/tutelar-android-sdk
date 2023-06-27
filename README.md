@@ -16,7 +16,7 @@ Tutelar are risk management experts. Our high powered tech-enabled solutions sim
 Add the dependency in the app level build.gradle:
 ```
 dependencies {
-    implementation 'io.tutelar.android:0.0.1'
+    implementation 'io.tutelar.android:0.0.2'
 }
 ```
 
